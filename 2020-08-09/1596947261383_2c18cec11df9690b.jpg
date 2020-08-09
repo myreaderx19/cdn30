@@ -1,0 +1,616 @@
+<!DOCTYPE html> <!--[if lt IE 9]><html
+lang="en-US" class="oldie"><![endif]--> <!--[if (gte IE 9) | !(IE)]><!--><html
+lang="en-US" class="modern"><!--<![endif]--><head><meta
+charset="UTF-8" /><meta
+name="viewport" content="width=device-width, initial-scale=1" /> <!--[if IE]><meta
+http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]--><title>This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras | Yanko Design</title><link
+rel="shortcut icon" href="https://cdn.yankodesign.com/images/design_news/2015/07/favicon16.ico" /><link
+rel="apple-touch-icon-precomposed" href="https://cdn.yankodesign.com/images/design_news/2015/07/favicon144.png" /><meta
+name="pocket-site-verification" content="5634ad88b8352fa97fe68be1080d57" /> <style>@font-face {font-family: "sw-icon-font";src:url("https://cdn.yankodesign.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.6.0");src:url("https://cdn.yankodesign.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.6.0#iefix") format("embedded-opentype"),url("https://cdn.yankodesign.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.6.0") format("woff"),
+	url("https://cdn.yankodesign.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.6.0") format("truetype"),url("https://cdn.yankodesign.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.6.0#1445203416") format("svg");font-weight: normal;font-style: normal;}</style><link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Yanko Design &raquo; Feed" href="https://www.yankodesign.com/feed/" /><link
+rel="alternate" type="application/rss+xml" title="Yanko Design &raquo; Comments Feed" href="https://www.yankodesign.com/comments/feed/" /> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.yankodesign.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);</script> <style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style><link
+rel='stylesheet' id='wp-block-library-css'  href='https://cdn.yankodesign.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' /><link
+rel='stylesheet' id='contact-form-7-css'  href='https://cdn.yankodesign.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2' type='text/css' media='all' /><link
+rel='stylesheet' id='jpibfi-style-css'  href='https://cdn.yankodesign.com/wp-content/plugins/jquery-pin-it-button-for-images/css/client.css?ver=3.0.5' type='text/css' media='all' /><link
+rel='stylesheet' id='social_warfare-css'  href='https://cdn.yankodesign.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=3.6.0' type='text/css' media='all' /><link
+rel='stylesheet' id='main-style-css'  href='https://cdn.yankodesign.com/wp-content/themes/simplemag/style.css?ver=5.4.2' type='text/css' media='all' /><link
+rel='stylesheet' id='rws-iconic-css'  href='https://cdn.yankodesign.com/wp-content/themes/simplemag/css/iconic-bootstrap.css?ver=5.4.2' type='text/css' media='all' /><link
+rel='stylesheet' id='redux-google-fonts-ti_option-css'  href='https://fonts.googleapis.com/css?family=Oswald%7CLato&#038;ver=1596945435' type='text/css' media='all' /> <script type='text/javascript' src='https://cdn.yankodesign.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> <script type='text/javascript' src='https://cdn.yankodesign.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> <link
+rel='https://api.w.org/' href='https://www.yankodesign.com/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.yankodesign.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.yankodesign.com/wp-includes/wlwmanifest.xml" /><link
+rel='prev' title='The Curved Flatware, in harmony with your circular plate.' href='https://www.yankodesign.com/2020/08/08/the-curved-flatware-in-harmony-with-your-circular-plate/' /><meta
+name="generator" content="WordPress 5.4.2" /><link
+rel="canonical" href="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" /><link
+rel='shortlink' href='https://www.yankodesign.com/?p=272624' /><link
+rel="alternate" type="application/json+oembed" href="https://www.yankodesign.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F" /><link
+rel="alternate" type="text/xml+oembed" href="https://www.yankodesign.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F&#038;format=xml" /><style type="text/css">a.pinit-button.custom span {
+		}
+	.pinit-hover {
+		opacity: 1 !important;
+		filter: alpha(opacity=100) !important;
+	}
+	a.pinit-button {
+	border-bottom: 0 !important;
+	box-shadow: none !important;
+	margin-bottom: 0 !important;
+}
+a.pinit-button::after {
+    display: none;
+}</style><style type="text/css">.main-menu > ul > li:hover > a {color:#333333;}.secondary-menu ul > li:hover > a {color:#ffffff;}.main-menu > ul > .link-arrow > a:after{border-color:transparent transparent #71bad5;}.main-menu > ul > li > .sub-menu{border-top-color:#71bad5;}.modern .content-over-image figure:before{opacity:0.0;}.top-strip #searchform input, .top-strip #searchform button{color:#8c919b}.modern .content-over-image:hover figure:before{opacity:0.4;}.main-menu .sub-menu .sub-links a:after{background-color:#ffffff}.sidebar .widget{border-bottom:1px solid #000;}.footer-sidebar .widget_rss li:after,.footer-sidebar .widget_pages li a:after,.footer-sidebar .widget_nav_menu li a:after,.footer-sidebar .widget_categories ul li:after, .footer-sidebar .widget_recent_entries li:after,.footer-sidebar .widget_recent_comments li:after{background-color:#8c919b;}.footer-sidebar .widget_ti_latest_comments .comment-text:after{border-bottom-color:#000000;}.footer-sidebar .widget_ti_latest_comments .comment-text:before{border-bottom-color:#585b61;}.footer-sidebar .widget_ti_latest_comments .comment-text{border-color:#585b61;}
+.sub-menu-columns .sub-menu .sub-links > .menu-item-has-children > a {color:#71bad5;}
+.title-with-sep{background:url("https://cdn.yankodesign.com/images/design_news/section-header-single.gif") repeat-x 50%;}
+@media only screen and (min-width: 751px) {#gallery-carousel,#gallery-carousel .gallery-item{height:580px;}}
+/* Custom CSS */
+.top-strip .social li a:hover{color:#ffffff;}
+.footer-sidebar .widget a:hover{ }
+.entries .hentry {text-align:left;}
+.ltr .entry-content > p:first-of-type:first-letter {
+		font-size: inherit !important;
+		float: inherit !important;
+		line-height: inherit !important;
+		padding: inherit !important;
+	}
+.paging-navigation .loop-pagination {border-top:0px;}
+body:not(.with-sidebar) .home-section article:nth-child(3n+1) { clear:none; }
+body:not(.with-sidebar) .home-section article:nth-child(2n+1) { clear:left; }
+.entries .hentry { text-align:center; }
+.wrapper .advertisement img {margin:inherit;}
+.grid-8 {width:inherit;}
+.advertisement img {display:inline;}
+.copyright {padding:15px 0;}
+.icomoon-camera-retro {display:none;}
+.single .entry-content {margin-bottom: 0px; padding-bottom: 0px;}
+@media only screen and (max-width: 240px) {
+.wrapper{max-width:95%}
+.widget_ti_featured_posts,
+.widget_ti_video_embed,
+.widget_recent_entries,
+.widget_search {display:none;}
+}
+@media only screen and (max-width: 479px) {
+.wrapper{max-width:95%}
+.widget_ti_featured_posts,
+.widget_ti_video_embed,
+.widget_recent_entries,
+.widget_search {display:none}
+}
+@media only screen and (min-width: 751px) {
+.grids .post,
+.grid-4 {width:510px;}
+.related-posts .entry-image,
+.featured-posts .entry-image,
+.category-posts .entry-image,
+.format-posts .entry-image,
+.latest-reviews .entry-image {height:314px;}
+.featured-posts .entry-imageckie {height:510px;}
+.col-2 .widget-area .flexslider .entry-image,
+.col-3 .widget-area-1 .flexslider .entry-image { height:472px;}
+.wrapper .advertisement {text-align:left;}
+.leaderboard {width:726px;height:60px;}
+}
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+.grids  .post,
+.grid-4 {width:450px;}
+.related-posts .entry-image,
+.featured-posts .entry-image,
+.category-posts .entry-image,
+.format-posts .entry-image,
+.latest-reviews .entry-image {height:277px;}
+.featured-posts .entry-imageckie {height:450px;}
+.col-2 .widget-area .flexslider .entry-image,
+.col-3 .widget-area-1 .flexslider .entry-image { height:418px;}
+.wrapper .advertisement {text-align:left;}
+.leaderboard {width:726px;height:60px;}
+}
+@media only screen and (min-width: 751px) and (max-width: 959px) {
+.grids  .post,
+.grid-4 {width:340px;}
+.related-posts .entry-image,
+.featured-posts .entry-image,
+.category-posts .entry-image,
+.format-posts .entry-image,
+.latest-reviews .entry-image {height:209px;}
+.featured-posts .entry-imageckie {height:340px;}
+.col-2 .widget-area .flexslider .entry-image,
+.col-3 .widget-area-1 .flexslider .entry-image { height:315px;}
+.wrapper .advertisement {text-align:left;}
+.leaderboard {width:468px;height:60px;}
+.logo img {margin-left:auto;margin-right:auto;}
+.header-banner .logo, .header-default .logo {display: inline;}
+.wrapper{max-width:100%}
+}
+@media only screen and (max-width: 750px) {
+.widget_ti_featured_posts,
+.widget_ti_video_embed,
+.widget_recent_entries,
+.widget_search {display:none}
+}
+.aboutprofile {width: 450px; float:left; margin-right: 15px; margin-bottom:20px;}
+.aboutprofile img {float:left; margin-right: 20px;}
+.sumome-stylebufferbottom-shim {height:50px;}
+@media only screen and (max-width: 750px) {
+	.logo img {
+                padding-bottom: 20px;
+	}
+}
+/* Hide social share under related posts */
+#site .single-related-posts .entry-summary .nc_socialPanel{
+        display: block;
+}</style> <script type="text/javascript"></script>  <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1367107-1', 'auto');
+  ga('send', 'pageview');</script> 
+ <script type="text/javascript">var _qevents = _qevents || [];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();</script>  <script type="text/javascript">var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".adzerk.net/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script> <script type="text/javascript">var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: yankodesign, site: Yanko Design, size: 728x90 - Leaderboard, zone: Header Top - Leaderboard*/
+if (window.innerWidth >= 960) {
+ados_add_placement(4916, 21669, "azk85191", 4).setZone(17168);
+} else {
+ados_add_placement(4916, 21669, "azk11118", 1578).setZone(152740);
+/* ados_add_placement(4916, 21669, "azk39648", 23).setZone(152740); */
+}
+/* load placement for account: yankodesign, site: Yanko Design, size: 300x250 - Medium Rectangle, zone: Front Page Index - Medium Rectangle*/
+ados_add_placement(4916, 21669, "azk70360", 5).setZone(153399);
+/* load placement for account: yankodesign, site: Yanko Design, size: 336x280 - Large Rectangle, zone: Archive Index - Large Rectangle*/
+ados_add_placement(4916, 21669, "azk25226", 10).setZone(133881);
+/* load placement for account: yankodesign, site: Yanko Design, size: 336x280 - Large Rectangle, zone: Permalink - Large Rectangle*/
+ados_add_placement(4916, 21669, "azk40046", 10).setZone(133880);
+ados_load();
+});</script> <style type="text/css" title="dynamic-css" class="options-output">h1, h2, h3, h4, h5, h6, .main-menu a, .secondary-menu a, .widget_pages, .widget_categories, .widget_nav_menu, .tagline, .sub-title, .entry-meta, .entry-note, .read-more, #submit, .ltr .single .entry-content > p:first-of-type:first-letter, input#s, .single-author-box .vcard, .comment-author, .comment-meta, .comment-reply-link, #respond label, .copyright, #wp-calendar tbody, .latest-reviews i, .score-box .total{font-family:Oswald;font-weight:normal;font-style:normal;}.title-with-sep, .title-with-bg, .classic-layout .entry-title, .posts-slider .entry-title{font-size:42px;}.main-menu > ul > li{font-size:13px;}body{font-family:Lato;font-weight:normal;font-style:normal;font-size:17px;}body, .site-content, .layout-full .title-with-sep .title, .layout-full .title-with-sep .entry-title{background-color:#ffffff;}.entry-image, .paging-navigation .current, .link-pages span, .score-line span, .entry-breakdown .item .score-line, .widget_ti_most_commented span, .all-news-link .read-more{background-color:#71bad5;}.paging-navigation .current, .widget span i, .score-line span i, .all-news-link .read-more{color:#000000;}#masthead, .main-menu-fixed{background-color:#ffffff;}.top-strip, .secondary-menu .sub-menu, .top-strip #searchform input[type="text"], .top-strip .social li ul{background-color:#000000;}.top-strip{border-bottom:0px solid #000000;}.secondary-menu a{color:#8c919b;}.secondary-menu a:hover{color:#ffffff;}.secondary-menu li, .top-strip #searchform input[type="text"]{border-color:#333333;}.top-strip .social li a{color:#8c919b;}.main-menu,.sticky-active .main-menu-fixed{background-color:#fafafa;}.main-menu > ul > li > a{color:#000000;}.main-menu > ul > li > a:hover{color:#333333;}.main-menu > ul > li:after{color:#eeeeee;}.main-menu{border-top:1px solid #f0f0f0;}.main-menu{border-bottom:1px solid #f0f0f0;}.main-menu .sub-menu{border-top:0px solid #000;border-bottom:0px solid #000;border-left:0px solid #000;border-right:0px solid #000;}.main-menu .sub-menu,.main-menu .sub-menu-two-columns .sub-menu:before{background-color:#000000;}.sub-links li a{color:#ffffff;}.sub-links li a:hover{color:#71bad5;}.main-menu .sub-menu .sub-links a:after{background-color:#1e1e1e;}.main-menu .sub-menu:after{background-color:#242628;}.sub-posts li a{color:#ffffff;}.sub-posts li a:hover{color:#71bad5;}.modern .content-over-image figure:before{background-color:#71bad5;}.sidebar{border-top:1px solid #000;border-bottom:1px solid #000;border-left:1px solid #000;border-right:1px solid #000;}.slide-dock{background-color:#ffffff;}.slide-dock h3, .slide-dock a, .slide-dock p{color:#000000;}.footer-sidebar, .widget_ti_most_commented li a{background-color:#000000;}.footer-sidebar .widget h3{color:#ffffff;}.footer-sidebar{color:#8c919b;}.footer-sidebar .widget a{color:#8c919b;}.footer-sidebar .widget a:hover{color:#ffffff;}.widget-area-2, .widget-area-3, .footer-sidebar .widget{border-top:1px dotted #585b61;border-bottom:1px dotted #585b61;border-left:1px dotted #585b61;border-right:1px dotted #585b61;}.copyright{background-color:#222222;}.copyright, .copyright a{color:#8c919b;}</style> <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101265524);</script> <script async src="//static.getclicky.com/js"></script> </head><body
+class="post-template-default single single-post postid-272624 single-format-standard ltr" itemscope itemtype="http://schema.org/WebPage"><div
+id="pageslide" class="st-menu st-effect"> <a
+href="#" id="close-pageslide"><i
+class="icomoon-remove-sign"></i></a></div> <section
+id="site" class="layout-full"><div
+class="site-content"> <header
+id="masthead" role="banner" class="clearfix with-menu" itemscope itemtype="http://schema.org/WPHeader"><div
+class="no-print top-strip"><div
+class="wrapper clearfix"><form
+method="get" id="searchform" action="https://www.yankodesign.com/" role="search"> <input
+type="text" name="s" id="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" /> <button
+type="submit"> <i
+class="icomoon-search"></i> </button></form><ul
+class="social"><li><a
+href="#" class="icomoon-share social-share-link"></a><ul><li><a
+href="http://feeds.feedburner.com/yankodesign" class="icomoon-feed" target="_blank"></a></li><li><a
+href="https://www.facebook.com/yankodesign/" class="icomoon-facebook" target="_blank"></a></li><li><a
+href="https://twitter.com/yankodesign" class="icomoon-twitter" target="_blank"></a></li><li><a
+href="https://www.linkedin.com/company/yanko-design" class="icomoon-linkedin" target="_blank"></a></li><li><a
+href="https://www.pinterest.com/yankodesign/" class="icomoon-pinterest" target="_blank"></a></li><li><a
+href="https://instagram.com/yankodesign" class="icomoon-instagram" target="_blank"></a></li></ul></li></ul> <a
+href="#" id="open-pageslide" data-effect="st-effect"><i
+class="icomoon-menu"></i></a> <nav
+class="secondary-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><ul
+id="menu-about-us" class="menu"><li
+id="menu-item-119668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119668"><a
+href="https://www.yankodesign.com/about/">About</a><ul
+class="sub-menu"><li
+id="menu-item-119670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119670"><a
+href="https://www.yankodesign.com/contact-us/">Contact</a></li><li
+id="menu-item-119669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119669"><a
+href="https://www.yankodesign.com/advertise/">The Authority on Product Design</a></li><li
+id="menu-item-158807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158807"><a
+href="https://www.yankodesign.com/privacy-policy/">Privacy Policy</a></li></ul></li><li
+id="menu-item-120003" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-120003"><a
+href="https://www.yankodesign.com/category/productdesign/">Categories</a><ul
+class="sub-menu"><li
+id="menu-item-120005" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-120005"><a
+href="https://www.yankodesign.com/category/productdesign/">Product Design</a><ul
+class="sub-menu"><li
+id="menu-item-120011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120011"><a
+href="https://www.yankodesign.com/category/accessories/">Accessories</a></li><li
+id="menu-item-120013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120013"><a
+href="https://www.yankodesign.com/category/bathroom/">Bathroom</a></li><li
+id="menu-item-120012" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120012"><a
+href="https://www.yankodesign.com/category/living/furniture/">Furniture</a></li><li
+id="menu-item-120009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120009"><a
+href="https://www.yankodesign.com/category/lighting/">Lighting</a></li><li
+id="menu-item-120010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120010"><a
+href="https://www.yankodesign.com/category/kitchen/">Kitchen</a></li></ul></li><li
+id="menu-item-120004" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-120004"><a
+href="https://www.yankodesign.com/category/technology/">Technology</a></li><li
+id="menu-item-120006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120006"><a
+href="https://www.yankodesign.com/category/automotive/">Automotive</a></li><li
+id="menu-item-120007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120007"><a
+href="https://www.yankodesign.com/category/architecture/">Architecture</a></li><li
+id="menu-item-120008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120008"><a
+href="https://www.yankodesign.com/category/interior/">Interiors</a></li></ul></li><li
+id="menu-item-190183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190183"><a
+href="https://www.yankodesign.com/jobs/">Jobs</a></li><li
+id="menu-item-119672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119672"><a
+href="https://www.yankodesign.com/tips-publication/">Submit a Design</a></li><li
+id="menu-item-119673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119673"><a
+href="http://bit.ly/2YZmYLa">Shop</a></li></ul></nav></div></div><div
+id="branding" class="animated"><div
+class="wrapper"><div
+class="header header-banner"><div
+class="inner"><div
+class="inner-cell"> <a
+class="logo" href="https://www.yankodesign.com/"> <img
+src="https://cdn.yankodesign.com/images/design_news/yd_logomark_retina.png" alt="Yanko Design - Modern Industrial Design News" width="232.5" height="90" /> </a></div><div
+class="inner-cell"><div
+class="ad-block"><div
+id="azk11118"></div><div
+id="azk85191"></div><div
+id="azk39648"></div></div></div></div></div></div></div><div
+class="no-print animated main-menu-container"><div
+class="main-menu-fixed"><nav
+class="wrapper main-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><ul
+id="menu-categories" class="menu"><li
+id="menu-item-133869" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a
+href="https://www.yankodesign.com/category/productdesign/">Product Design</a><div
+class="sub-menu"><ul
+class="sub-posts"><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_layout-296x197.jpg" alt="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/">This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/08/the-curved-flatware-in-harmony-with-your-circular-plate/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/curved_flatware_hero-296x197.jpg" alt="The Curved Flatware, in harmony with your circular plate." width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/08/the-curved-flatware-in-harmony-with-your-circular-plate/">The Curved Flatware, in harmony with your circular plate.</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-neck-gym-gives-your-upper-spine-a-workout-to-relieve-neck-pain-and-improve-posture/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/deep_neck_muscle_strengthener_layout-296x197.jpg" alt="This neck-gym gives your upper spine a workout to relieve neck pain and improve posture" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-neck-gym-gives-your-upper-spine-a-workout-to-relieve-neck-pain-and-improve-posture/">This neck-gym gives your upper spine a workout to relieve neck pain and improve posture</a></li></ul></div></li><li
+id="menu-item-133870" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a
+href="https://www.yankodesign.com/category/technology/">Technology</a><div
+class="sub-menu"><ul
+class="sub-posts"><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_layout-296x197.jpg" alt="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/">This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/07/worlds-first-offline-translation-earbuds-translate-up-to-40-languages-and-93-accents-in-real-time/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/06/Timekettle_first_offline_translation_earbuds_hero-296x197.jpg" alt="World&#8217;s first offline translation earbuds translate up to 40 languages and 93 accents in real-time" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/07/worlds-first-offline-translation-earbuds-translate-up-to-40-languages-and-93-accents-in-real-time/">World&#8217;s first offline translation earbuds translate up to 40 languages and 93 accents in real-time</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/07/apple-accessories-designed-to-fulfill-every-tech-lovers-dream-part-2/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/apple-accessories-designed-to-fulfill-every-tech-lovers-dream-part-2/01_Apple-Watch-iPod-Case_Mac-accessories-296x197.jpg" alt="Apple accessories designed to fulfill every tech lovers dream: Part 2" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/07/apple-accessories-designed-to-fulfill-every-tech-lovers-dream-part-2/">Apple accessories designed to fulfill every tech lovers dream: Part 2</a></li></ul></div></li><li
+id="menu-item-133871" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+href="https://www.yankodesign.com/category/automotive/">Automotive</a><div
+class="sub-menu"><ul
+class="sub-posts"><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/07/bmws-classic-e24-gets-a-modern-makeover-but-retains-the-iconic-sharknose-design/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/bmws-classic-e24-gets-a-modern-makeover-but-retains-the-iconic-sharknose-design/bmw_6_4-296x197.jpg" alt="BMW&#8217;s classic E24 gets a modern makeover but retains the iconic sharknose design" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/07/bmws-classic-e24-gets-a-modern-makeover-but-retains-the-iconic-sharknose-design/">BMW&#8217;s classic E24 gets a modern makeover but retains the iconic sharknose design</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/06/this-renault-automotive-inspired-architecture-is-designed-for-the-car-to-move-within-the-house/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/272513/07-H33_yankodesign-296x197.jpg" alt="This Renault automotive-inspired architecture is designed for the car to move within the house!" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/06/this-renault-automotive-inspired-architecture-is-designed-for-the-car-to-move-within-the-house/">This Renault automotive-inspired architecture is designed for the car to move within the house!</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/05/if-marvels-black-panther-ever-rode-a-motorbike-this-would-probably-be-it/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/auto-draft/mimic_ebike_1-296x197.jpg" alt="If MARVEL&#8217;s Black Panther ever rode a motorbike, this would probably be it." width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/05/if-marvels-black-panther-ever-rode-a-motorbike-this-would-probably-be-it/">If MARVEL&#8217;s Black Panther ever rode a motorbike, this would probably be it.</a></li></ul></div></li><li
+id="menu-item-133874" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+href="https://www.yankodesign.com/category/architecture/">Architecture</a><div
+class="sub-menu"><ul
+class="sub-posts"><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/07/this-hole-some-house-design-reduces-indoor-pollution-and-breathes-using-upcycled-punctured-bricks/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/272648/20-wallhouse_yankodesign-296x197.jpg" alt="This hole-some house design reduces indoor pollution and breathes using upcycled punctured bricks!" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/07/this-hole-some-house-design-reduces-indoor-pollution-and-breathes-using-upcycled-punctured-bricks/">This hole-some house design reduces indoor pollution and breathes using upcycled punctured bricks!</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/06/this-renault-automotive-inspired-architecture-is-designed-for-the-car-to-move-within-the-house/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/272513/07-H33_yankodesign-296x197.jpg" alt="This Renault automotive-inspired architecture is designed for the car to move within the house!" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/06/this-renault-automotive-inspired-architecture-is-designed-for-the-car-to-move-within-the-house/">This Renault automotive-inspired architecture is designed for the car to move within the house!</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/04/space-architecture-designed-to-be-a-home-to-the-future-humans-living-on-mars/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/space-homes/08-Interstellar-Labs_EBIOS_Mars1-296x197.jpg" alt="Space Architecture designed to be a home to the future humans living on Mars!" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/04/space-architecture-designed-to-be-a-home-to-the-future-humans-living-on-mars/">Space Architecture designed to be a home to the future humans living on Mars!</a></li></ul></div></li><li
+id="menu-item-134441" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a
+href="https://www.yankodesign.com/category/deals/">Deals</a><div
+class="sub-menu"><ul
+class="sub-posts"><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_layout-296x197.jpg" alt="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/">This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-neck-gym-gives-your-upper-spine-a-workout-to-relieve-neck-pain-and-improve-posture/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/deep_neck_muscle_strengthener_layout-296x197.jpg" alt="This neck-gym gives your upper spine a workout to relieve neck pain and improve posture" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/08/this-neck-gym-gives-your-upper-spine-a-workout-to-relieve-neck-pain-and-improve-posture/">This neck-gym gives your upper spine a workout to relieve neck pain and improve posture</a></li><li> <figure> <a
+href="https://www.yankodesign.com/2020/08/07/this-apple-watch-accessory-lets-you-use-your-smartwatch-with-earphones-while-swimming/"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/08/draft-h2o-headphones/h2o_underwater_headphones_3-296x197.jpg" alt="This Apple Watch accessory lets you use your smartwatch with earphones while swimming" width="296" height="197" /></a> </figure> <a
+href="https://www.yankodesign.com/2020/08/07/this-apple-watch-accessory-lets-you-use-your-smartwatch-with-earphones-while-swimming/">This Apple Watch accessory lets you use your smartwatch with earphones while swimming</a></li></ul></div></li><li
+id="menu-item-147442" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+href="https://www.yankodesign.com/random-designs/">Random</a></li><li
+id="menu-item-135199" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+href="https://www.yankodesign.com/tips-publication/">Submit</a></li><li
+id="menu-item-135795" class="menu-item menu-item-type-post_type menu-item-object-page"><a
+href="https://www.yankodesign.com/newsletter/">+ Newsletter</a></li></ul></nav></div></div> </header> <main
+id="content" class="clearfix animated" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog"> <article
+id="post-272624" class="post-272624 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-medical category-productdesign category-technology tag-carealert tag-nightlight tag-sensorcall tag-shop" itemscope itemtype="http://schema.org/Article"> <header
+class="wrapper entry-header page-header"><div
+class="title-with-sep single-title"><h1 class="entry-title" itemprop="headline">This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras</h1></div><div
+class="entry-meta"> <span
+class="vcard author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"> <span>By</span> <a
+href="https://www.yankodesign.com/author/sarangsheth/" class="url fn n" rel="author" itemprop="url"> <span
+itemprop="name">Sarang Sheth</span> </a> </span> <time
+class="entry-date updated" datetime="2020-08-08T18:46:07-07:00" itemprop="datePublished">08/08/2020</time></div> </header><div
+class="entry-media"></div><div
+class="wrapper"><div
+class="grids"><div
+class="grid-8 column-1"><div
+class="single-box clearfix entry-content" itemprop="articleBody"> <input
+class="jpibfi" type="hidden"><p><iframe
+title="CareAlert Pre-Order Campaign Video" width="1050" height="591" src="https://www.youtube.com/embed/ssWe7HT1vYE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><p>CareAlert is a brilliant example of a design that&#8217;s extremely aware of its target audience. This night-light helps you monitor and take care of the elderly, but it does so in a way that doesn&#8217;t require the elderly to be tech-literate, and it doesn&#8217;t use cameras either. The CareAlert and its wide host of sensors help you be aware of the wellbeing of your elderly loved ones. The sensors do a multitude of things, from tracking temperature, air quality, and humidity, to sensing motion, light, and vibrations. Without using cameras or microphones, invading privacy, or capturing any actionable data, the CareAlert gives you a comprehensive overview of your elderly relatives through its smartphone app. Helping you understand if they slept alright, woke up on time, or if and when they went outdoors to run basic errands. Disguised as a simple night-light that plugs into a power socket, the CareAlert is an incredibly well-designed solution that&#8217;s relevant to its audience, and respects their privacy too.</p><p>Installing CareAlert is as simple as just plugging it into a power socket and setting up the CareAlert Dashboard on your smartphone. If your folks live in a larger home, you may want to plug one into the important rooms of the house, covering a wider area. Once plugged in, CareAlert helps you be there for your folks and monitor/take-care of them without being overly intrusive. Giving them the independence to go about their lives, while allowing you to stay informed of their health and their space, CareAlert does a much more effective job than webcams, smart speakers, or other smart home devices that essentially spy on people by capturing sensitive data. Unlike other smart home devices, CareAlert comes with a one-time cost and a free lifetime monitoring service, requiring zero subscription fees or periodic payments.</p><p>CareAlert essentially only monitors two things &#8211; movement, and surroundings. Given that elder-folk often live their life in a routine, the CareAlert picks up on it, letting you know if they woke up at an odd hour in the middle of the night, or if they overslept. The motion sensors track movement, giving you an overview of their activity, while other sensors help you monitor their immediate environment, knowing if there&#8217;s a change in air quality, temperature, humidity, etc. Install a CareAlert near the door and you&#8217;ll even know when they step out and when they got back home. Built into the CareAlert device is a two-way intercom too. You can call your parents/relatives through the CareAlert app and the night-light essentially becomes a speakerphone, allowing you to communicate with them if you can&#8217;t get through to them any other way. Moreover, you can even set up voice-message reminders for them, playing back a pre-recorded message to remind them to take their pills after lunch or dinner, or to call you before going to bed. The CareAlert isn&#8217;t intrusive, but it fosters communication when necessary, allowing you to remotely stay informed and in touch.</p><p>The beauty of the CareAlert lies in the fact that it recognizes its audience well. Designed as an innocuous (and helpful) night-light, the CareAlert doesn&#8217;t require the elderly to wear a wearable and constantly have to charge it, or require them to interact with interfaces that can often seem daunting to them. It does its job silently, needs no maintenance, all while also protecting their privacy and celebrating their independence!</p><p>Designer: Sensorcall</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><strong>Click Here to Buy Now: $99</strong></a> <del
+datetime="2020-08-08T13:56:50+00:00">$152</del> (34% off). Hurry, only 5 left!</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272793" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_layout.jpg" alt="" width="1050" height="700" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_layout.jpg" ></a></p><h4 style="text-align: center;">CareAlert &#8211; Always Know That Your Parents Are Safe</h4><p>Winner of the CES 2020 Innovation Award, the CareAlert is a smart nightlight that detects potential problems and helps verify that your parents are okay at all times.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+src=" https://getcarealert.com/wp-content/uploads/2020/07/00_First_sensorscall.gif" alt="" width="1050" height="590" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src=" https://getcarealert.com/wp-content/uploads/2020/07/00_First_sensorscall.gif" ></a></p><p><strong>No camera or recording audio</strong> &#8211; Monitor daily routine non-intrusively, with sensors that learn normal patterns and behaviors over time.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272794" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_01.jpg" alt="" width="1050" height="700" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_01.jpg" ></a></p><p><strong>Wellbeing dashboard on your phone</strong> &#8211; With the Wellness Dashboard, you can review everything CareAlert senses at a glance. See levels of activity, comfort, and environmental quality.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272795" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_03.jpg" alt="" width="1050" height="700" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_03.jpg" ></a></p><p><strong>Detects humidity, air quality changes or unsafe room temperatures &#8211; </strong>If something doesn’t seem right, CareAlert will alert you immediately, connecting you with its two-way communicator so you can check in.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+src="https://getcarealert.com/wp-content/uploads/2020/07/01_Animation_sensorscall.gif" alt="" width="1050" height="590" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://getcarealert.com/wp-content/uploads/2020/07/01_Animation_sensorscall.gif" ></a></p><p><strong>CareAlerts knows if your parents are going about their daily routine, or not</strong> &#8211; Multiple sensors learn the daily routines, so CareAlert can alert you when unusual behavior or activity happens.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272796" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_04.jpg" alt="" width="1050" height="682" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_04.jpg" ></a></p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272797" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_05.jpg" alt="" width="1050" height="700" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_05.jpg" ></a></p><p><strong>Communicate in real-time, without relying on phones</strong> &#8211; Instant hands-free answering works like an intercom.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272798" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_06.jpg" alt="" width="1050" height="699" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/CareAlert_smart_nightlight_that_detects_potential_problems_06.jpg" ></a></p><p><strong>Send or schedule medication reminders</strong> &#8211; No need for pillboxes. Set custom pre-recorded voice reminders for medicines and dosage.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+src="https://getcarealert.com/wp-content/uploads/2020/07/Simply-plug_sensorscall.gif" alt="" width="1050" height="590" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://getcarealert.com/wp-content/uploads/2020/07/Simply-plug_sensorscall.gif" ></a></p><p><strong>All you have to do is plug it in</strong> &#8211; It looks just like a nightlight! In the event of a power outage, it can be used as a battery-powered emergency light.</p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+src="https://getcarealert.com/wp-content/uploads/2020/07/Visual-Reminder_low.gif" alt="" width="1050" height="&quot;590" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://getcarealert.com/wp-content/uploads/2020/07/Visual-Reminder_low.gif" ></a></p><p><strong>A visual reminder of family love</strong> &#8211; Grandchildren can use the CareAlert app to let their grandparents that they&#8217;re being thought of. With the push of a button on the app, CareAlert&#8217;s light blinks.</p><h4 style="text-align: center;">How it Works</h4><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272768" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/care_alert11.jpg" alt="" width="1050" height="1170" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/care_alert11.jpg" ></a></p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><img
+class="alignnone size-full wp-image-272763" src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/care_alert6.jpg" alt="" width="1050" height="667" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/08/08/this-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/" data-jpibfi-post-title="This smart nightlight helps you remotely take care of your loved ones&#8230; without any cameras" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/08/this-smart-night-light-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras/care_alert6.jpg" ></a></p><p><a
+href="https://www.indiegogo.com/projects/carealert-always-know-that-your-parents-are-safe#/" target="_blank" rel="noopener noreferrer"><strong>Click Here to Buy Now: $99</strong></a> <del
+datetime="2020-08-08T13:56:50+00:00">$152</del> (34% off). Hurry, only 5 left!</p><div
+class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_color_outlines swp_other_color_outlines swp_individual_full_color scale-100 scale-full_width" data-min-width="400" data-float-color="#ffffff" data-float="bottom" data-float-mobile="bottom" data-transition="slide" ><div
+class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a
+class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare"><span
+class="swp_count swp_hide"><span
+class="iconFiller"><span
+class="spaceManWilly"><i
+class="sw swp_facebook_icon"></i><span
+class="swp_share">Share</span></span></span></span></a></div><div
+class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a
+rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onClick="var e=document.createElement('script');
+e.setAttribute('type','text/javascript');
+e.setAttribute('charset','UTF-8');
+e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+document.body.appendChild(e);
+" ><span
+class="swp_count swp_hide"><span
+class="iconFiller"><span
+class="spaceManWilly"><i
+class="sw swp_pinterest_icon"></i><span
+class="swp_share">Pin</span></span></span></span></a></div><div
+class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a
+class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare"><span
+class="swp_count swp_hide"><span
+class="iconFiller"><span
+class="spaceManWilly"><i
+class="sw swp_linkedin_icon"></i><span
+class="swp_share">Share</span></span></span></span></a></div><div
+class="nc_tweetContainer swp_share_button swp_flipboard" data-network="flipboard"><a
+class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://share.flipboard.com/bookmarklet/popout?v=2&title=This+smart+nightlight+helps+you+remotely+take+care+of+your+loved+ones...+without+any+cameras&url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare" data-link="https://share.flipboard.com/bookmarklet/popout?v=2&title=This+smart+nightlight+helps+you+remotely+take+care+of+your+loved+ones...+without+any+cameras&url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare"><span
+class="swp_count swp_hide"><span
+class="iconFiller"><span
+class="spaceManWilly"><i
+class="sw swp_flipboard_icon"></i><span
+class="swp_share">Flip</span></span></span></span></a></div><div
+class="nc_tweetContainer swp_share_button swp_whatsapp" data-network="whatsapp"><a
+class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare" data-link="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare"><span
+class="swp_count swp_hide"><span
+class="iconFiller"><span
+class="spaceManWilly"><i
+class="sw swp_whatsapp_icon"></i><span
+class="swp_share">WhatsApp</span></span></span></span></a></div><div
+class="nc_tweetContainer swp_share_button swp_pocket" data-network="pocket"><a
+class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://getpocket.com/save?url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dpocket%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare" data-link="https://getpocket.com/save?url=https%3A%2F%2Fwww.yankodesign.com%2F2020%2F08%2F08%2Fthis-smart-nightlight-helps-you-remotely-take-care-of-your-loved-ones-without-any-cameras%2F%3Futm_source%3Dpocket%26utm_medium%3Dsocial%26utm_campaign%3DSocialWarfare"><span
+class="swp_count swp_hide"><span
+class="iconFiller"><span
+class="spaceManWilly"><i
+class="sw swp_pocket_icon"></i><span
+class="swp_share">Pocket</span></span></span></span></a></div><div
+class="nc_tweetContainer swp_share_button total_shares total_sharesalt" ><span
+class="swp_count ">48 <span
+class="swp_label">Shares</span></span></div></div><div
+class="swp-content-locator"></div></div><div
+class="single-box advertisement"><div
+style="border-top: 1px solid #cccccc; padding-top: 10px; width: 336px; text-align:center; color:#cccccc;"><div
+id="azk40046"></div></div></div> <section
+class="wrapper home-section featured-posts single-related-posts entries"> <header
+class="section-header"><div
+class="title-with-sep"><h2 class="title">Related Posts</h2></div> </header> <article
+class="grid-4 post-271334 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-productdesign category-technology tag-ampere tag-grant-shi tag-shop tag-uv-c-sanitizer tag-wireless-charger"> <figure
+class="entry-image"> <a
+href="https://www.yankodesign.com/2020/07/30/this-handheld-uv-c-sanitizer-doubles-as-a-wireless-charger-to-keep-your-electronics-charged-and-99-9-germ-free/"> <input
+class="jpibfi" type="hidden"><img
+width="510" height="314" src="https://cdn.yankodesign.com/images/design_news/2020/07/handheld_UV_sanitizer_and_wireless_charger_layout-510x314.jpg" class="nopin wp-post-image" alt="" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/07/30/this-handheld-uv-c-sanitizer-doubles-as-a-wireless-charger-to-keep-your-electronics-charged-and-99-9-germ-free/" data-jpibfi-post-title="This handheld UV-C sanitizer doubles as a wireless charger to keep your electronics charged and 99.9% germ-free" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/07/handheld_UV_sanitizer_and_wireless_charger_layout-510x314.jpg" > </a> </figure><div
+class="article-content-wrapper"><h2 class="entry-title"> <a
+href="https://www.yankodesign.com/2020/07/30/this-handheld-uv-c-sanitizer-doubles-as-a-wireless-charger-to-keep-your-electronics-charged-and-99-9-germ-free/">This handheld UV-C sanitizer doubles as a wireless charger to keep your electronics charged and 99.9% germ-free</a></h2><div
+class="entry-summary"> <input
+class="jpibfi" type="hidden"><p>It&#8217;s a wireless charger, but it&#8217;s better than a wireless charger. Cell by Ampere works as a dock as well as a UV sterilization chamber for&#8230;</p></div></div> </article> <article
+class="grid-4 post-268674 post type-post status-publish format-standard has-post-thumbnail hentry category-cameras category-deals category-productdesign tag-hy-digital tag-revoring tag-shop tag-step-ring-adapter"> <figure
+class="entry-image"> <a
+href="https://www.yankodesign.com/2020/07/19/this-universal-polarizer-and-neutral-density-filter-will-fit-on-any-handheld-camera-you-have/"> <input
+class="jpibfi" type="hidden"><img
+width="510" height="314" src="https://cdn.yankodesign.com/images/design_news/2020/07/RevoRing_advanced_step_ring_adapter_for_camera_lens_01-510x314.jpg" class="nopin wp-post-image" alt="" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/07/19/this-universal-polarizer-and-neutral-density-filter-will-fit-on-any-handheld-camera-you-have/" data-jpibfi-post-title="This Universal Polarizer and Neutral Density Filter will fit on any handheld camera you have!" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/07/RevoRing_advanced_step_ring_adapter_for_camera_lens_01-510x314.jpg" > </a> </figure><div
+class="article-content-wrapper"><h2 class="entry-title"> <a
+href="https://www.yankodesign.com/2020/07/19/this-universal-polarizer-and-neutral-density-filter-will-fit-on-any-handheld-camera-you-have/">This Universal Polarizer and Neutral Density Filter will fit on any handheld camera you have!</a></h2><div
+class="entry-summary"> <input
+class="jpibfi" type="hidden"><p>The REVORING reflects a level of simplicity and sensibility that&#8217;s very similar to H&amp;Y&#8217;s Magnetic Filter Holder for cameras. The Magnetic Filter Holder created waves among&#8230;</p></div></div> </article> <article
+class="grid-4 post-20064 post type-post status-publish format-standard has-post-thumbnail hentry category-automotive category-medical tag-boat tag-boat-rescue tag-medical tag-rescue-boat tag-safety-boat"> <figure
+class="entry-image"> <a
+href="https://www.yankodesign.com/2009/12/17/safety-skijet-first/"> <input
+class="jpibfi" type="hidden"><img
+width="444" height="314" src="https://cdn.yankodesign.com/images/design_news/2009/12/16/bravo01.jpg" class="nopin wp-post-image" alt="" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2009/12/17/safety-skijet-first/" data-jpibfi-post-title="Safety Skijet First!" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2009/12/16/bravo01.jpg" > </a> </figure><div
+class="article-content-wrapper"><h2 class="entry-title"> <a
+href="https://www.yankodesign.com/2009/12/17/safety-skijet-first/">Safety Skijet First!</a></h2><div
+class="entry-summary"> <input
+class="jpibfi" type="hidden"><p>What&#8217;s up Brazil? I bet you&#8217;re just cruzin in the nice summer breeze right about now huh? Or wait. Winter. Anyway, there&#8217;s water on the coasts&#8230;</p></div></div> </article> <article
+class="grid-4 post-48555 post type-post status-publish format-standard has-post-thumbnail hentry category-dining category-productdesign category-tableware tag-chopstick tag-designwright tag-fork tag-knife tag-lekue tag-twin-one"> <figure
+class="entry-image"> <a
+href="https://www.yankodesign.com/2011/05/02/when-a-knife-and-fork-get-together/"> <input
+class="jpibfi" type="hidden"><img
+width="314" height="314" src="https://cdn.yankodesign.com/images/design_news/2011/05/02/twin_one.jpg" class="nopin wp-post-image" alt="" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2011/05/02/when-a-knife-and-fork-get-together/" data-jpibfi-post-title="When a Knife and Fork Get Together&#8230;" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2011/05/02/twin_one.jpg" > </a> </figure><div
+class="article-content-wrapper"><h2 class="entry-title"> <a
+href="https://www.yankodesign.com/2011/05/02/when-a-knife-and-fork-get-together/">When a Knife and Fork Get Together&#8230;</a></h2><div
+class="entry-summary"> <input
+class="jpibfi" type="hidden"><p>I spent several minutes staring at the Twin One knife and fork companion set. It&#8217;s a nice modern design by Adrian and Jeremy Wright (omg are&#8230;</p></div></div> </article> <article
+class="grid-4 post-169368 post type-post status-publish format-standard has-post-thumbnail hentry category-awards category-productdesign category-technology tag-a-design-award-and-competition"> <figure
+class="entry-image"> <a
+href="https://www.yankodesign.com/2017/09/23/start-your-design-journey-a-design-awards-are-just-around-the-corner/"> <input
+class="jpibfi" type="hidden"><img
+width="510" height="314" src="https://cdn.yankodesign.com/images/design_news/2017/09/start-your-design-journey-a-design-awards-are-just-around-the-corner/adesign_call_2017_layout-510x314.jpg" class="nopin wp-post-image" alt="" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2017/09/23/start-your-design-journey-a-design-awards-are-just-around-the-corner/" data-jpibfi-post-title="Start your Design Journey! A&#8217; Design Awards are Just Around the Corner!" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2017/09/start-your-design-journey-a-design-awards-are-just-around-the-corner/adesign_call_2017_layout-510x314.jpg" > </a> </figure><div
+class="article-content-wrapper"><h2 class="entry-title"> <a
+href="https://www.yankodesign.com/2017/09/23/start-your-design-journey-a-design-awards-are-just-around-the-corner/">Start your Design Journey! A&#8217; Design Awards are Just Around the Corner!</a></h2><div
+class="entry-summary"> <input
+class="jpibfi" type="hidden"><p>You know that idea you have in the back of your head? What if it has true potential? Award programs are the best way to dip&#8230;</p></div></div> </article> <article
+class="grid-4 post-95297 post type-post status-publish format-standard has-post-thumbnail hentry category-appliances category-productdesign tag-hye-kyung-lee tag-indoor tag-laundry-dryer tag-solar tag-wave-dry"> <figure
+class="entry-image"> <a
+href="https://www.yankodesign.com/2013/11/12/the-dry-wave/"> <input
+class="jpibfi" type="hidden"><img
+width="222" height="314" src="https://cdn.yankodesign.com/images/design_news/2013/11/12/wave_dry2.jpg" class="nopin wp-post-image" alt="" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2013/11/12/the-dry-wave/" data-jpibfi-post-title="The Dry Wave" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2013/11/12/wave_dry2.jpg" > </a> </figure><div
+class="article-content-wrapper"><h2 class="entry-title"> <a
+href="https://www.yankodesign.com/2013/11/12/the-dry-wave/">The Dry Wave</a></h2><div
+class="entry-summary"> <input
+class="jpibfi" type="hidden"><p>The Wave Dry is an innovative concept that looks at drying clothes faster and in a cost-effective way. It basically is this solar device that can&#8230;</p></div></div> </article> </section><div
+class="clearfix"></div><div
+class="single-box tag-box clearfix"><h3 class="title">Tags</h3><a
+href="https://www.yankodesign.com/tag/carealert/" rel="tag">CareAlert</a><a
+href="https://www.yankodesign.com/tag/nightlight/" rel="tag">Nightlight</a><a
+href="https://www.yankodesign.com/tag/sensorcall/" rel="tag">Sensorcall</a><a
+href="https://www.yankodesign.com/tag/shop/" rel="tag">Shop</a></div> <nav
+class="single-box clearfix nav-single"><div
+class="nav-previous"> <a
+href="https://www.yankodesign.com/2020/08/08/the-curved-flatware-in-harmony-with-your-circular-plate/" rel="prev"><i
+class="icomoon-chevron-left"></i><span
+class="sub-title">Previous article</span>The Curved Flatware, in harmony with your circular plate.</a></div> </nav><div
+id="comments" class="single-box comments-area"></div></div></div></div> </article> </main><div
+class="footer-subscribe"><div
+class="footer-subscribe-container"><div
+id="mc_embed_signup"><form
+action="//yankodesign.us2.list-manage.com/subscribe/post?u=a9037201cc2fce345058fb762&amp;id=96002e01b4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><div
+id="mc_embed_signup_scroll"><h2>Newsletter</h2><div
+class="mc-field-group rws-subscribe-name"> <input
+type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First Name"></div><div
+class="mc-field-group rws-subscribe-email"> <input
+type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address"></div><div
+id="mce-responses" class="clear"><div
+class="response" id="mce-error-response" style="display:none"></div><div
+class="response" id="mce-success-response" style="display:none"></div></div><div
+style="position: absolute; left: -5000px;" aria-hidden="true"><input
+type="text" name="b_a9037201cc2fce345058fb762_96002e01b4" tabindex="-1" value=""></div><div
+class="clear"><input
+type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button rws-subscribe-btn"></div></div></form></div></div></div> <footer
+id="footer" class="no-print animated" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div
+class="footer-sidebar"><div
+id="supplementary" class="wrapper clearfix columns col-2"><div
+class="widget-area widget-area-1" role="complementary"><div
+id="ti_featured_posts-2" class="widget widget_ti_featured_posts"><h3>Featured Posts</h3><div
+class="widget-posts-classic-entries"><ul
+class="clearfix"><li> <figure
+class="entry-image"> <a
+href="https://www.yankodesign.com/2020/07/30/this-handheld-uv-c-sanitizer-doubles-as-a-wireless-charger-to-keep-your-electronics-charged-and-99-9-germ-free/"> <input
+class="jpibfi" type="hidden"><img
+width="510" height="314" src="https://cdn.yankodesign.com/images/design_news/2020/07/handheld_UV_sanitizer_and_wireless_charger_layout-510x314.jpg" class="attachment-rectangle-size size-rectangle-size wp-post-image" alt="" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://www.yankodesign.com/2020/07/30/this-handheld-uv-c-sanitizer-doubles-as-a-wireless-charger-to-keep-your-electronics-charged-and-99-9-germ-free/" data-jpibfi-post-title="This handheld UV-C sanitizer doubles as a wireless charger to keep your electronics charged and 99.9% germ-free" data-jpibfi-src="https://cdn.yankodesign.com/images/design_news/2020/07/handheld_UV_sanitizer_and_wireless_charger_layout-510x314.jpg" > </a> </figure> <a
+class="widget-post-title" href="https://www.yankodesign.com/2020/07/30/this-handheld-uv-c-sanitizer-doubles-as-a-wireless-charger-to-keep-your-electronics-charged-and-99-9-germ-free/">This handheld UV-C sanitizer doubles as a wireless charger to keep your electronics charged and 99.9% germ-free</a></li></ul></div></div></div><div
+class="widget-area widget-area-2" role="complementary"><div
+id="search-3" class="widget widget_search"><h3>Search</h3><form
+method="get" id="searchform" action="https://www.yankodesign.com/" role="search"> <input
+type="text" name="s" id="s" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';" /> <button
+type="submit"> <i
+class="icomoon-search"></i> </button></form></div><div
+id="ti-about-site-2" class="widget widget_ti-about-site"><h3>About Yanko Design</h3><p>We’re an online magazine dedicated to covering the best in international product design. We have a passion for the new, innovative, unique and undiscovered. With our eyes firmly focused on the future.</p><ul
+class="social social-center clearfix"><li><a
+href="http://feeds.feedburner.com/yankodesign" aria-hidden="true" class="icomoon-feed" target="_blank"></a></li><li><a
+href="https://twitter.com/yankodesign" aria-hidden="true" class="icomoon-twitter" target="_blank"></a></li><li><a
+href="https://www.facebook.com/yankodesign" aria-hidden="true" class="icomoon-facebook" target="_blank"></a></li><li><a
+href="https://plus.google.com/+yankodesign/" aria-hidden="true" class="icomoon-google-plus" target="_blank"></a></li><li><a
+href="https://www.pinterest.com/yankodesign/" aria-hidden="true" class="icomoon-pinterest" target="_blank"></a></li><li><a
+href="https://instagram.com/yankodesign" aria-hidden="true" class="icomoon-instagram" target="_blank"></a></li></ul></div><div
+id="ti_offical_partners-2" class="widget widget_ti_offical_partners"><h3>Official Partners</h3><div
+class="yanko-official-partners"><div
+class="official-partners-logo"><img
+src="https://cdn.yankodesign.com/images/design_news/2016/05/reddot_logo4.jpg" alt="Official Partners" /></div><div
+class="official-partners-logo"><img
+src="https://cdn.yankodesign.com/images/design_news/2016/05/ifdesign_logo4.jpg" alt="Official Partners" /></div><div
+class="official-partners-logo"><img
+src="https://cdn.yankodesign.com/images/design_news/2020/06/Good_Design_Selection_Award.jpg" alt="Official Partners" /></div></div></div></div></div></div><div
+class="copyright"><div
+class="wrapper"><div
+class="grids"><div
+class="grid-10"> Copyright © Yanko Design 2020</div><div
+class="grid-2"> <a
+href="#" class="back-top">Back to top <i
+class="icomoon-chevron-up"></i></a></div></div></div></div> </footer></div> </section><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.yankodesign.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Yanko Design","image_selector":"#content img","disabled_classes":"nopin;wp-smiley;advertisement;post-ad","enabled_classes":"","min_image_height":150,"min_image_height_small":0,"min_image_width":150,"min_image_width_small":0,"show_on":"[single]","disable_on":",218776","show_button":"hover","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"top-left","description_option":["post_title"],"transparency_value":0,"pin_image":"default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinImageHeight":54,"pinImageWidth":54,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/plugins/jquery-pin-it-button-for-images/js/jpibfi.client.js?ver=3.0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var socialWarfare = {"addons":[{"name":"Social Warfare - Pro","key":"pro","core_required":"3.3.0","product_id":63157,"store_url":"https:\/\/warfareplugins.com","version":"3.6.1","filepath":"\/home\/yanko\/public_html\/wp-content\/plugins\/social-warfare-pro\/social-warfare-pro.php","license_key":"e459cf2ceb3d4763e985b5e490c131e8","is_registered":true},"pro"],"post_id":"272624","floatBeforeContent":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=3.6.0'></script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/themes/simplemag/js/jquery.flexslider-min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/themes/simplemag/js/jquery.caroufredsel.js?ver=6.2.1'></script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/themes/simplemag/js/jquery.assets.js?ver=1.0'></script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/themes/simplemag/js/jquery.custom.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_posts = {"ajaxurl":"https:\/\/www.yankodesign.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-content/themes/simplemag/js/ajax-load.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://cdn.yankodesign.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type="text/javascript"> var swp_nonce = "55794c466d";var swpFloatBeforeContent = false;var swpClickTracking = false; swpPinIt={"enabled":false};</script><script type='text/javascript'></script>
+
+<script>
+    jQuery(function(){
+   jQuery(".single-post .entry-content p").not(":has(img)").addClass("post-without-image"); // select post without images
+   });
+</script>
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+    _qevents.push( { qacct:"p-a3BIh4Bzcf-ZM"} );
+</script>
+<noscript>
+<div style="display: none;">
+    <img src="https://pixel.quantserve.com/pixel/p-test123.gif" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+<script></script>
+</body>
+</html>
+<!-- Dynamic page generated in 0.470 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-08-08 20:58:00 -->
+
+<!-- Compression = gzip -->
